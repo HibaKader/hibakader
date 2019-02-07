@@ -14,7 +14,7 @@ nav {
 }
 
 ul {
-margin-left: 60px;
+margin-left: 0px;
 }
 
 ul li {
@@ -22,17 +22,23 @@ ul li {
   display: inline-block;
   float: left;
   line-height: 100px;
+  margin-right: 100px;
 }
 
 ul li a {
   display: block;
  text-decoration: none;
- font-size: 14px;
+ font-size: 30px;
  font-family: Arial;
- color: #1e1e1e
+ color: #1e1e1e;
  padding: 0 20px;
+
 }
 
 ul li a:hover {
   color: red;
+}
+img {
+  width: 100px;
+  height: 80px;
 }
