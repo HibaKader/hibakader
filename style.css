@@ -38,7 +38,9 @@ ul li a {
 ul li a:hover {
   color: red;
 }
-img {
-  width: 100px;
-  height: 80px;
+
+
+p {
+  font-size: 30px;
+
 }
