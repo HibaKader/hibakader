@@ -14,18 +14,26 @@ nav {
   border: 6px solid #cc0066;
 }
 
+
+.c {
+  font-size: 30px;
+  color:#cc0066;
+  text-align: center;
+  margin-left: 750px;
+}
+
 .a{
   font-size: 30px;
   color:#cc0066;
   text-align: center;
-  margin-left: 50px;
+  margin-left: 300px;
 }
 
 .b{
   font-size: 30px;
   color:#cc0066;
   text-align: center;
-  margin-left: 50px;
+  margin-left: 460px;
 }
 
 
@@ -39,15 +47,18 @@ ul li {
   float: left;
   line-height: 100px;
   margin-right: 100px;
+  font: oblique 50px/90px Brush Script m7,cursive, serif;
+  font-style: italic;
 }
 
 ul li a {
   display: block;
- text-decoration: none;
+ text-decoration-color: #1e1e1e;
  font-size: 50px;
  font-family: Arial;
  color: #1e1e1e;
  padding: 0 20px;
+ font: oblique 50px/90px Brush Script m7,cursive, serif;
 }
 
 ul li a:hover {
@@ -66,7 +77,7 @@ h2{
   text-align: center;
   font-size: 60px;
   color: #cc0066;
-  font: oblique 65px/30px Georgia, serif;
+  font: oblique 75px/30px COPPERPLATE, serif;
   margin-top: 30px;
 }
 
@@ -75,15 +86,15 @@ h3 {
   font-size: 60px;
   color: #cc0066;
   margin-left: 20px;
-  font: oblique 65px/30px Georgia, serif;
+  font: oblique 75px/30px COPPERPLATE, serif;
   margin-top: 30px;
 }
 
 h4 {
   text-align: center;
-  font-size: 60px;
+  font-size: 70px;
   color: #cc0066;
-  font: oblique 65px/30px Georgia, serif;
+  font: oblique 75px/30px COPPERPLATE, serif;
   margin-top: 30px;
 }
 
